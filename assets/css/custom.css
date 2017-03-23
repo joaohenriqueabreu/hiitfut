@@ -1,0 +1,22 @@
+/* Add here all your css styles (customizations) */
+
+:root{
+    --brand-orange: rgb(255, 183, 22);
+    --brand-black: rgb(34, 29, 30);
+}
+
+.custom-color-orange{
+    color: var(--brand-orange) !important;
+}
+
+.custom-color-black{
+    color: var(--brand-black) !important;
+}
+
+.custom-bg-orange{
+    background: var(--brand-orange) !important;
+}
+
+.custom-bg-black{
+    background: var(--brand-black) !important;
+}
