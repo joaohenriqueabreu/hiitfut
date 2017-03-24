@@ -20,3 +20,53 @@
 .custom-bg-black{
     background: var(--brand-black) !important;
 }
+
+.custom-hover-bg-orange{
+
+}
+
+.custom-hover-bg-orange:hover{
+    background: var(--brand-orange) !important;
+}
+
+.custom-padding-20{
+    padding: 20px 20px 20px 20px !important;
+}
+
+.custom-padding-40{
+    padding: 40px 40px 40px 40px !important;
+}
+
+.custom-padding-100{
+    padding: 100px 100px 100px 100px !important;
+}
+
+/* The only rule that matters */
+#video-background {
+    /*  making the video fullscreen  */
+    /*position: fixed;*/
+    position: absolute;
+    /*right: 0;*/
+    /*bottom: 0;*/
+    min-width: 100%;
+    min-height: 100%;
+
+    left: 0;
+    top: 0;
+    /*max-width: 100%;*/
+    /*max-height: 100%;*/
+
+    width: auto;
+    height: auto;
+    z-index: -999;
+}
+
+.custom-image-logo {
+    max-width: 200px !important;
+    max-height: 300px !important;
+}
+
+.custom-image-training{
+    max-width: 100% !important;
+    max-height: 100% !important;
+}

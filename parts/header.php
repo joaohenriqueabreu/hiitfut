@@ -10,7 +10,7 @@
             </button>
 
             <a class="navbar-brand" href="#body">
-                <img class="img-responsive" src="assets/img/logo-light.png" alt="logo">
+                <img class="custom-image-logo" src="../assets/img/favicon.png" alt="logo">
             </a>
         </div>
 
@@ -22,25 +22,25 @@
                         <a href="#body"><span data-hover="Home">Home</span></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#about"><span data-hover="About">About</span></a>
+                        <a href="#about"><span data-hover="Sobre">Sobre</span></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#services"><span data-hover="Services">Services</span></a>
+                        <a href="#services"><span data-hover="Vantagens">Vantagens</span></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#studios"><span data-hover="Studios">Studios</span></a>
+                        <a href="#studios"><span data-hover="Treinos">Treinos</span></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#schedule"><span data-hover="Schedule">Schedule</span></a>
+                        <a href="#schedule"><span data-hover="Agenda">Agenda</span></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#lessons"><span data-hover="Lessons">Lessons</span></a>
+                        <a href="#lessons"><span data-hover="Aulas">Aulas</span></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#team"><span data-hover="Team">Team</span></a>
+                        <a href="#team"><span data-hover="Time">Time</span></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#contact"><span data-hover="Contact">Contact</span></a>
+                        <a href="#contact"><span data-hover="Contato">Contato</span></a>
                     </li>
                 </ul>
             </div>

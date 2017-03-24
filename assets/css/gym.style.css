@@ -448,7 +448,8 @@ a:active {
 }
 
 .u-info-box-v2-wrapper:hover .u-info-box-v2__content {
-	background-color: #6b7de0;
+	/*background-color: #6b7de0;*/
+	background-color: var(--brand-orange);
 }
 
 /* Social Icons */

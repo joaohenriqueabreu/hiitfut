@@ -1,9 +1,9 @@
 <!-- Footer -->
 <footer id="contact" class="g-bg-dark-blue1">
-    <div class="g-bg-color-base">
+    <div class="g-bg-color-base custom-bg-orange">
         <div class="container g-pt-100 g-pb-100">
             <header class="text-center g-mb-60">
-                <h2 class="u-heading-v1 g-color-white">Contact Us</h2>
+                <h2 class="u-heading-v1 g-color-white">Entre em contato consco</h2>
                 <p class="g-line-height g-color-white">Fusce dolor libero, efficitur et lobortis at, faucibus nec nunc.
                     Proin fermentum turpis eget nisi facilisis lobortis. <br> Praesent malesuada facilisis maximus.</p>
             </header>

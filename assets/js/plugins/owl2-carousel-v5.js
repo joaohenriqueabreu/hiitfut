@@ -7,7 +7,7 @@ var Owl2Carouselv5 = function () {
         margin: 0,
         responsive: {
           0: {
-            items: 5
+            items: 4
           },
         },
         nav: false,
