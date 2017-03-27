@@ -6,7 +6,7 @@
             <div class="g-padding-40 text-center g-block-middle">
                 <header class="g-mb-40">
 <!--                    <h3 class="u-heading-v1 g-color-white custom-color-black">-->
-                    <h2 class="g-color-white custom-color-black">
+                    <h2 class="g-color-white custom-color-white">
                         <strong>
                             O HiiTFut é uma Academia de Futebol para Adultos que pratica e desenvolve uma modalidade que combina elementos, exercícios e movimentos específicos do futebol
                             com treinamento funcional gerando condicionamento físico, bem estar e saúde de maneira dinâmica e divertida.

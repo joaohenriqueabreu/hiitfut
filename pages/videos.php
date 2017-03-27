@@ -10,7 +10,7 @@
             <li>
                 <div class="row">
                     <div class="col-md-7">
-                        <img class="img-responsive g-mb-40 g-mb-0--lg" src="assets/img-temp/lessons/img1.jpg" alt="">
+                        <img class="img-responsive g-mb-40 g-mb-0--lg" src="../assets/img/photos/bg2.jpg" alt="">
                         <a class="u-video-icon-v1 g-block-middle cbp-lightbox" data-title="O que é o Hiitfut?"
                            href="https://www.youtube.com/embed/LUZHkSpZOzU?autoplay=1">
                             <i href="#" class="fa fa-play u-video-icon-v1__icon"></i>
@@ -35,7 +35,7 @@
             <li>
                 <div class="row">
                     <div class="col-md-7">
-                        <img class="img-responsive g-mb-40 g-mb-0--lg" src="assets/img-temp/lessons/img1.jpg" alt="">
+                        <img class="img-responsive g-mb-40 g-mb-0--lg" src="../assets/img/photos/wsoccer2.jpg" alt="">
                         <a class="u-video-icon-v1 g-block-middle cbp-lightbox" data-title="Treino feminino"
                            href="https://www.youtube.com/embed/mlKFlpKhyNg?autoplay=1">
                             <i href="#" class="fa fa-play u-video-icon-v1__icon"></i>
@@ -60,7 +60,7 @@
             <li>
                 <div class="row">
                     <div class="col-md-7">
-                        <img class="img-responsive g-mb-40 g-mb-0--lg" src="assets/img-temp/lessons/img1.jpg" alt="">
+                        <img class="img-responsive g-mb-40 g-mb-0--lg" src="../assets/img/photos/bg3.jpg" alt="">
                         <a class="u-video-icon-v1 g-block-middle cbp-lightbox" data-title="Treino Masculino"
                            href="https://www.youtube.com/embed/L_UWwQrqqE8?autoplay=1">
                             <i href="#" class="fa fa-play u-video-icon-v1__icon"></i>
@@ -89,7 +89,7 @@
             <li>
                 <div class="row">
                     <div class="col-md-7">
-                        <img class="img-responsive g-mb-40 g-mb-0--lg" src="assets/img-temp/lessons/img1.jpg" alt="">
+                        <img class="img-responsive g-mb-40 g-mb-0--lg" src="../assets/img/photos/msoccer3.jpg" alt="">
                         <a class="u-video-icon-v1 g-block-middle cbp-lightbox" data-title="Circuito de Resistência"
                            href="https://www.youtube.com/embed/uxrJzDUFWs0?autoplay=1">
                             <i href="#" class="fa fa-play u-video-icon-v1__icon"></i>
@@ -115,7 +115,7 @@
             <li>
                 <div class="row">
                     <div class="col-md-7">
-                        <img class="img-responsive g-mb-40 g-mb-0--lg" src="assets/img-temp/lessons/img1.jpg" alt="">
+                        <img class="img-responsive g-mb-40 g-mb-0--lg" src="../assets/img/photos/msoccer4.jpg" alt="">
                         <a class="u-video-icon-v1 g-block-middle cbp-lightbox" data-title="Contra-Ataque + Treino Alemão"
                            href="https://www.youtube.com/embed/oL6AiIF3pNo?autoplay=1">
                             <i href="#" class="fa fa-play u-video-icon-v1__icon"></i>
