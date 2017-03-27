@@ -13,6 +13,10 @@
     color: var(--brand-black) !important;
 }
 
+.custom-color-white{
+    color: white !important;
+}
+
 .custom-bg-orange{
     background: var(--brand-orange) !important;
 }
@@ -62,8 +66,8 @@
 }
 
 .custom-image-logo {
-    max-width: 200px !important;
-    max-height: 300px !important;
+    max-width: 100px !important;
+    max-height: 150px !important;
 }
 
 .custom-image-training{

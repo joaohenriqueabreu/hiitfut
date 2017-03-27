@@ -131,7 +131,7 @@ a:active {
 
 /* Background Colors */
 .g-bg-color-base {
-	background: #6b7de0;
+	background: var(--brand-orange);
 }
 .g-bg-color-base--dark {
 	background: #3b3f47;
@@ -146,7 +146,7 @@ a:active {
 
 /* Text Colors */
 .g-color-base {
-	color: #6b7de0;
+	color: var(--brand-orange);
 }
 .g-color-base--dark {
 	color: #3b3e47;
@@ -171,7 +171,7 @@ a:active {
 	color: #fff;
 	font-size: 11px;
 	padding: 15px 35px 13px;
-	background: #6b7de0;
+	background: var(--brand-orange);
 	text-transform: uppercase;
 	font-weight: bold;
 	letter-spacing: 1px;
@@ -288,7 +288,8 @@ a:active {
 	font-weight: bold;
 	letter-spacing: 1px;
 	display: inline-block;
-	border-bottom: 3px solid #6b7de0;
+	/*border-bottom: 3px solid var(--brand-orange);*/
+	border-bottom: 3px solid var(--brand-orange);
 }
 
 /* Promo */
@@ -448,7 +449,7 @@ a:active {
 }
 
 .u-info-box-v2-wrapper:hover .u-info-box-v2__content {
-	/*background-color: #6b7de0;*/
+	/*background-color: var(--brand-orange);*/
 	background-color: var(--brand-orange);
 }
 
@@ -516,7 +517,7 @@ a:active {
 
 .u-social-icons-v1:hover {
 	color: #fff;
-	background-color: #6b7de0;
+	background-color: var(--brand-orange);
 	border-color: transparent;
 }
 
@@ -715,16 +716,16 @@ a:active {
 	[. Pace Loader]
 ---------------------------------------------------- */
 .pace .pace-progress {
-	background: #6b7de0;
+	background: var(--brand-orange);
 }
 
 .pace .pace-progress-inner {
-	box-shadow: 0 0 10px #6b7de0, 0 0 5px #6b7de0;
+	box-shadow: 0 0 10px var(--brand-orange), 0 0 5px var(--brand-orange);
 }
 
 .pace .pace-activity {
-	border-top-color: #6b7de0;
-	border-left-color: #6b7de0;
+	border-top-color: var(--brand-orange);
+	border-left-color: var(--brand-orange);
 }
 
 /* --------------------------------------------------
@@ -849,7 +850,7 @@ a:active {
 .one-page-header.top-nav-collapse .dropdown-menu > .active > a span[data-hover],
 .one-page-header.top-nav-collapse .dropdown-menu > .active > a:hover span[data-hover],
 .one-page-header.top-nav-collapse .dropdown-menu > .active > a:focus span[data-hover] {
-	color: #6b7de0;
+	color: var(--brand-orange);
 	transform: translate3d(0, 0, 0);
 }
 @media (max-width: 991px) {
@@ -861,7 +862,7 @@ a:active {
 	.one-page-header .navbar-nav > li > a:hover span[data-hover] {
 		transform: translate3d(0, 0, 0);
 		transition: color .3s;
-		color: #6b7de0;
+		color: var(--brand-orange);
 	}
 }
 
@@ -1029,7 +1030,7 @@ a:active {
 	}
 
 	.one-page-header.top-nav-collapse .dropdown-menu > li > a:hover {
-		color: #6b7de0;
+		color: var(--brand-orange);
 	}
 }
 @media (max-width: 991px) {
@@ -1049,7 +1050,7 @@ a:active {
 
 	.one-page-header .dropdown-menu a:hover,
 	.one-page-header.top-nav-collapse .dropdown-menu > li > a:hover {
-		color: #6b7de0 !important;
+		color: var(--brand-orange) !important;
 	}
 }
 
@@ -1081,5 +1082,5 @@ a:active {
 }
 .one-page-header.navbar-default .navbar-toggle:hover .icon-bar,
 .one-page-header.top-nav-collapse .navbar-toggle:hover .icon-bar {
-	background: #6b7de0;
+	background: var(--brand-orange);
 }

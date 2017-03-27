@@ -34,8 +34,8 @@
                 </div>
 
                 <header class="u-info-box-v2__content g-padding-20 custom-hover-bg-orange">
-                    <h3 class="u-info-box-v2__content-title g-color-white">André Mathias</h3>
-                    <span class="g-color-white g-opacity-avg">Yoga, Cardio, Pilates, Crossfit</span>
+                    <h3 class="u-info-box-v2__content-title g-color-white">André Mathias</h3><br>
+                    <span class="g-color-white g-opacity-avg">Treinador de futebol</span>
                 </header>
             </li>
             <!-- End Member -->
@@ -66,8 +66,8 @@
                 </div>
 
                 <header class="u-info-box-v2__content g-padding-20 custom-hover-bg-orange">
-                    <h3 class="u-info-box-v2__content-title g-color-white">Adão Silva Filho</h3>
-                    <span class="g-color-white g-opacity-avg">Gym, Boxing, Crossfit, Cardio</span>
+                    <h3 class="u-info-box-v2__content-title g-color-white">Adão Silva Filho</h3><br>
+                    <span class="g-color-white g-opacity-avg">Treinamento funcional</span>
                 </header>
             </li>
             <!-- End Member -->
@@ -99,7 +99,39 @@
 
                 <header class="u-info-box-v2__content g-padding-20 custom-hover-bg-orange">
                     <h3 class="u-info-box-v2__content-title g-color-white">Luis Henrique Berbel</h3>
-                    <span class="g-color-white g-opacity-avg">Cardio, Pilates, Zymba</span>
+                    <span class="g-color-white g-opacity-avg">Treino de agilidade e força</span>
+                </header>
+            </li>
+            <!-- End Member -->
+
+            <!-- Member -->
+            <li class="u-info-box-v2-wrapper">
+                <div class="g-position-rel">
+                    <img class="img-responsive g-width-100x" src="assets/img-temp/team/img3.jpg" alt="">
+                    <div class="u-info-box-v2">
+                        <ul class="list-inline u-info-box-v2__social text-center">
+                            <li><a class="u-social-icons-v1 u-social-icons-v1--light g-rounded-50x" href="#"><i
+                                        class="fa fa-twitter"></i></a></li>
+                            <li><a class="u-social-icons-v1 u-social-icons-v1--light g-rounded-50x" href="#"><i
+                                        class="fa fa-pinterest"></i></a></li>
+                            <li><a class="u-social-icons-v1 u-social-icons-v1--light g-rounded-50x" href="#"><i
+                                        class="fa fa-facebook"></i></a></li>
+                            <li><a class="u-social-icons-v1 u-social-icons-v1--light g-rounded-50x" href="#"><i
+                                        class="fa fa-linkedin"></i></a></li>
+                        </ul>
+                        <ul class="list-unstyled u-info-box-v2__info">
+                            <li class="g-color-white g-mb-10"><i class="fa fa-envelope g-color-base g-mr-5"></i>
+                                monica@unify.com
+                            </li>
+                            <li class="g-color-white"><i class="fa fa-phone g-color-base g-mr-5"></i> +44 093 4142 545
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <header class="u-info-box-v2__content g-padding-20 custom-hover-bg-orange">
+                    <h3 class="u-info-box-v2__content-title g-color-white">Jean Souza</h3><br>
+                    <span class="g-color-white g-opacity-avg">Preparador de goleiros</span>
                 </header>
             </li>
             <!-- End Member -->
@@ -130,8 +162,8 @@
                 </div>
 
                 <header class="u-info-box-v2__content g-padding-20 custom-hover-bg-orange">
-                    <h3 class="u-info-box-v2__content-title g-color-white">Tom Sowyer</h3>
-                    <span class="g-color-white g-opacity-avg">Box, Kickboxing, Gym, Crossfit</span>
+                    <h3 class="u-info-box-v2__content-title g-color-white">Renato Mathias</h3><br>
+                    <span class="g-color-white g-opacity-avg">Administrativo</span>
                 </header>
             </li>
             <!-- End Member -->

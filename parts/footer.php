@@ -96,65 +96,23 @@
     <!-- Contacts -->
     <div class="container g-pt-60 g-pb-60">
         <div class="row">
-            <div class="col-md-4 col-sm-6">
-                <h2 class="u-feature-box-v1__title g-color-base--dark g-mb-20">Contact Us</h2>
-                <p class="g-opacity-avg g-mb-20">Lorem ipsum dolor sit amet, consectetur adipiscing</p>
-                <address class="g-line-height--lg">
-                    <span class="g-opacity-avg"><i class="fa fa-home g-mr-5"></i> Address:</span> In sed lectus
-                    tincidunt <br>
-                    <span class="g-opacity-avg"><i class="fa fa-phone g-mr-5"></i>  Phone Number:</span> <strong>+48 555
-                        2566 112</strong> <br>
-                    <span class="g-opacity-avg"><i class="fa fa-envelope g-mr-5"></i>  Email:</span> <strong>marketing@unify.com</strong>
-                </address>
+            <div class="col-md-6">
+                HiiTFut 2017 <i class="fa fa-copyright"></i>. Todos os direitos reservados
+            </div>
 
+            <div class="col-md-4 col-sm-6">
                 <ul class="list-inline">
-                    <li><a class="u-social-icons-v1 u-social-icons-v1--dark g-rounded-50x" href="#"><i
-                                class="fa fa-twitter"></i></a></li>
-                    <li><a class="u-social-icons-v1 u-social-icons-v1--dark g-rounded-50x" href="#"><i
-                                class="fa fa-pinterest"></i></a></li>
-                    <li><a class="u-social-icons-v1 u-social-icons-v1--dark g-rounded-50x" href="#"><i
-                                class="fa fa-facebook"></i></a></li>
-                    <li><a class="u-social-icons-v1 u-social-icons-v1--dark g-rounded-50x" href="#"><i
-                                class="fa fa-linkedin"></i></a></li>
+                    <li><a class="u-social-icons-v1 u-social-icons-v1--dark g-rounded-50x custom-hover-bg-orange" href="#"><i
+                                class="fa fa-twitter custom-color-black custom-hover-bg-orange"></i></a></li>
+                    <li><a class="u-social-icons-v1 u-social-icons-v1--dark g-rounded-50x custom-hover-bg-orange" href="#"><i
+                                class="fa fa-pinterest custom-color-black custom-hover-bg-orange"></i></a></li>
+                    <li><a class="u-social-icons-v1 u-social-icons-v1--dark g-rounded-50x custom-hover-bg-orange" href="#"><i
+                                class="fa fa-facebook custom-color-black custom-hover-bg-orange"></i></a></li>
+                    <li><a class="u-social-icons-v1 u-social-icons-v1--dark g-rounded-50x custom-hover-bg-orange" href="#"><i
+                                class="fa fa-linkedin custom-color-black"></i></a></li>
+                    <li><a class="u-social-icons-v1 u-social-icons-v1--dark g-rounded-50x custom-hover-bg-orange" href="#"><i
+                                class="fa fa-youtube custom-color-black"></i></a></li>
                 </ul>
-            </div>
-
-            <div class="col-md-4 col-sm-6">
-                <h2 class="u-feature-box-v1__title g-color-base--dark g-mb-20">Usefull Links</h2>
-                <div class="row">
-                    <div class="col-xs-6">
-                        <ul class="u-list-style-v1 g-opacity-avg">
-                            <li class="g-mb-10"><a class="u-list-style-v1__link" href="#">Proin vitae est lorem</a></li>
-                            <li class="g-mb-10"><a class="u-list-style-v1__link" href="#">Aenean imperdiet nisi</a></li>
-                            <li class="g-mb-10"><a class="u-list-style-v1__link" href="#">Praesent pulvinar</a></li>
-                            <li class="g-mb-10"><a class="u-list-style-v1__link" href="#">Integer commodo est</a></li>
-                            <li class="g-mb-10"><a class="u-list-style-v1__link" href="#">Morbi massa justo</a></li>
-                            <li class="g-mb-10"><a class="u-list-style-v1__link" href="#">Fusce mollis eros</a></li>
-                        </ul>
-                    </div>
-
-                    <div class="col-xs-6">
-                        <ul class="u-list-style-v1 g-opacity-avg">
-                            <li class="g-mb-10"><a class="u-list-style-v1__link" href="#">Morbi massa justo</a></li>
-                            <li class="g-mb-10"><a class="u-list-style-v1__link" href="#">Praesent necdo</a></li>
-                            <li class="g-mb-10"><a class="u-list-style-v1__link" href="#">Fusce blandit eros</a></li>
-                            <li class="g-mb-10"><a class="u-list-style-v1__link" href="#">Rnteger commodo</a></li>
-                            <li class="g-mb-10"><a class="u-list-style-v1__link" href="#">Aenean imperdiet nisi</a></li>
-                            <li class="g-mb-10"><a class="u-list-style-v1__link" href="#">Praesent gravida</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-4">
-                <h2 class="u-feature-box-v1__title g-color-base--dark g-mb-20">Subscribe</h2>
-                <p class="g-opacity-avg g-mb-20">Dolor sit amet, consectetur adipiscing elit. Proin vitae est lorem.
-                    Aenean imperdiet nisi a dolor condimentum.</p>
-                <div class="text-center">
-                    <input class="form-control u-subscribe-block-v1 g-rounded-50 g-mb-20" type="text"
-                           placeholder="Your Email">
-                    <a class="btn-u btn-block btn-u-base btn-u-base g-rounded-50" href="#">View Our Best Offers</a>
-                </div>
             </div>
         </div>
     </div>

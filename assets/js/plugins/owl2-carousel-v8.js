@@ -16,7 +16,7 @@ var Owl2Carouselv8 = function () {
             items: 3,
           },
           1200:{
-            items: 4,
+            items: 5,
           }
         },
         nav: false,

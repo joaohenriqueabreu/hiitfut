@@ -2,7 +2,7 @@
 <!--[if !IE]><!-->
 <html lang="en"> <!--<![endif]-->
 <head>
-    <title>Hiitfut</title>
+    <title>HiiTFut</title>
 
     <!-- Meta -->
     <meta charset="utf-8">
@@ -31,7 +31,7 @@
 
     <?php include_once('pages/trainings.php') ?>
 
-    <?php include_once('pages/schedule.php') ?>
+<!--    --><?php //include_once('pages/schedule.php') ?>
 
     <?php include_once('pages/videos.php') ?>
 

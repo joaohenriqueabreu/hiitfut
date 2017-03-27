@@ -1,5 +1,12 @@
 <!-- Studios -->
 <section id="studios" class="g-bg-color-base--dark custom-padding-100">
+    <header class="g-mb-20">
+        <span class="u-heading-v1__sub g-color-base--dark g-mb-10 custom-color-white">Nossos treinos</span>
+        <!--                    <h2 class="u-heading-v1 u-heading-v1--lg g-color-base--dark">-->
+        <!--                        Os segredos do HiiTFut-->
+        <!--                    </h2>-->
+    </header>
+
     <ul class="u-info-box-v1-wrapper owl2-carousel-v6">
         <li class="u-info-box-v1">
             <img class="u-info-box-v1__img custom-image-training" src="../assets/img/photos/wsoccer.png" alt="">

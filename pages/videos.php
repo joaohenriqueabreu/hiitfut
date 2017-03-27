@@ -2,8 +2,8 @@
 <section id="lessons" class="g-bg-color-base custom-bg-orange">
     <div class="container content-lg custom-bg-orange">
         <header class="g-mb-60 clearfix">
-            <h2 class="u-heading-v1 g-color-white g-pull-left--md  g-mb-30 g-mb-0--md">Veja alguns de nossos
-                treinos</h2>
+            <h2 class="u-heading-v1 g-color-white g-pull-left--md  g-mb-30 g-mb-0--md">Veja algumas de nossas
+                aulas</h2>
         </header>
 
         <ul class="list-unstyled owl2-carousel-v7">

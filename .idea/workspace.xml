@@ -2,34 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58cf5dc0-0c4a-4cb6-ba16-b1eb7d26e841" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/photos/wsoccer.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/angular/landing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/plugins/smoothScroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backstretch/jquery.backstretch.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery/jquery-migrate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery/jquery-migrate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/smoothScroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/schedule.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/team.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/trainings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/videos.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/training.php" afterPath="$PROJECT_DIR$/pages/about.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/photos/msoccer.png" afterPath="$PROJECT_DIR$/assets/img/photos/msoccer.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/photos/osoccer.png" afterPath="$PROJECT_DIR$/assets/img/photos/osoccer.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/photos/psoccer.png" afterPath="$PROJECT_DIR$/assets/img/photos/psoccer.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/custom.css" afterPath="$PROJECT_DIR$/assets/css/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/gym.style.css" afterPath="$PROJECT_DIR$/assets/css/gym.style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v5.js" afterPath="$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v5.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v6.js" afterPath="$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v6.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v8.js" afterPath="$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v8.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/home.php" afterPath="$PROJECT_DIR$/pages/home.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/about.php" afterPath="$PROJECT_DIR$/pages/about.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/services.php" afterPath="$PROJECT_DIR$/pages/services.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/team.php" afterPath="$PROJECT_DIR$/pages/team.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/trainings.php" afterPath="$PROJECT_DIR$/pages/trainings.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/videos.php" afterPath="$PROJECT_DIR$/pages/videos.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parts/footer.php" afterPath="$PROJECT_DIR$/parts/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parts/header.php" afterPath="$PROJECT_DIR$/parts/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parts/scripts.php" afterPath="$PROJECT_DIR$/parts/scripts.php" />
     </list>
     <ignored path="hiitfut.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,11 +37,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+            <state relative-caret-position="68">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parts/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" column="67" selection-start-line="39" selection-start-column="67" selection-end-line="39" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -63,8 +60,8 @@
       <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="70" column="32" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
+            <state relative-caret-position="265">
+              <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -73,18 +70,8 @@
       <file leaf-file-name="services.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/services.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="34" column="91" selection-start-line="34" selection-start-column="91" selection-end-line="34" selection-end-column="91" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="team.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/team.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="706">
-              <caret line="100" column="95" selection-start-line="100" selection-start-column="95" selection-end-line="100" selection-end-column="95" />
+            <state relative-caret-position="187">
+              <caret line="11" column="25" selection-start-line="6" selection-start-column="16" selection-end-line="11" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -93,28 +80,18 @@
       <file leaf-file-name="gym.style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/gym.style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="451" column="40" selection-start-line="451" selection-start-column="40" selection-end-line="451" selection-end-column="40" />
+            <state relative-caret-position="182">
+              <caret line="133" column="16" selection-start-line="133" selection-start-column="16" selection-end-line="133" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/parts/footer.php">
+      <file leaf-file-name="team.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/team.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scripts.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/parts/scripts.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="41" column="64" selection-start-line="41" selection-start-column="64" selection-end-line="41" selection-end-column="64" />
+            <state relative-caret-position="605">
+              <caret line="164" column="98" selection-start-line="164" selection-start-column="98" selection-end-line="164" selection-end-column="98" />
               <folding />
             </state>
           </provider>
@@ -123,18 +100,20 @@
       <file leaf-file-name="about.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/about.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="72" selection-start-line="27" selection-start-column="72" selection-end-line="27" selection-end-column="72" />
-              <folding />
+            <state relative-caret-position="68">
+              <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/home.php">
+      <file leaf-file-name="owl2-carousel-v8.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v8.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="89" selection-start-line="35" selection-start-column="89" selection-end-line="35" selection-end-column="89" />
+            <state relative-caret-position="306">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -143,8 +122,18 @@
       <file leaf-file-name="trainings.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/trainings.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="81" selection-start-line="27" selection-start-column="81" selection-end-line="27" selection-end-column="81" />
+            <state relative-caret-position="51">
+              <caret line="3" column="100" selection-start-line="3" selection-start-column="100" selection-end-line="3" selection-end-column="100" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="videos.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/videos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -166,19 +155,20 @@
         <option value="$PROJECT_DIR$/pages/schedule.php" />
         <option value="$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v5.js" />
         <option value="$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v6.js" />
-        <option value="$PROJECT_DIR$/pages/videos.php" />
         <option value="$PROJECT_DIR$/parts/scripts.php" />
-        <option value="$PROJECT_DIR$/parts/header.php" />
         <option value="$PROJECT_DIR$/assets/js/custom.js" />
         <option value="$PROJECT_DIR$/pages/home.php" />
-        <option value="$PROJECT_DIR$/pages/about.php" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/assets/css/custom.css" />
-        <option value="$PROJECT_DIR$/pages/trainings.php" />
-        <option value="$PROJECT_DIR$/pages/services.php" />
         <option value="$PROJECT_DIR$/parts/footer.php" />
         <option value="$PROJECT_DIR$/assets/css/gym.style.css" />
+        <option value="$PROJECT_DIR$/pages/services.php" />
+        <option value="$PROJECT_DIR$/pages/trainings.php" />
+        <option value="$PROJECT_DIR$/pages/videos.php" />
+        <option value="$PROJECT_DIR$/assets/css/custom.css" />
+        <option value="$PROJECT_DIR$/parts/header.php" />
+        <option value="$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v8.js" />
         <option value="$PROJECT_DIR$/pages/team.php" />
+        <option value="$PROJECT_DIR$/pages/about.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -475,12 +465,20 @@
       <updated>1490126078021</updated>
       <workItem from="1490126079840" duration="898000" />
       <workItem from="1490127429012" duration="854000" />
-      <workItem from="1490286468799" duration="12914000" />
+      <workItem from="1490286468799" duration="18953000" />
     </task>
+    <task id="LOCAL-00001" summary="v1">
+      <created>1490375802552</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1490375802552</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14666000" />
+    <option name="totallyTimeSpent" value="20705000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -490,6 +488,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -508,6 +507,12 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -714,34 +719,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/videos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="119" column="33" selection-start-line="119" selection-start-column="33" selection-end-line="119" selection-end-column="85" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parts/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/home.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
           <caret line="35" column="89" selection-start-line="35" selection-start-column="89" selection-end-line="35" selection-end-column="89" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/about.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="72" selection-start-line="27" selection-start-column="72" selection-end-line="27" selection-end-column="72" />
           <folding />
         </state>
       </provider>
@@ -769,46 +750,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="70" column="32" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/trainings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="81" selection-start-line="27" selection-start-column="81" selection-end-line="27" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/services.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="34" column="91" selection-start-line="34" selection-start-column="91" selection-end-line="34" selection-end-column="91" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parts/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/global.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -817,18 +758,92 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/parts/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="116" column="0" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/gym.style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="451" column="40" selection-start-line="451" selection-start-column="40" selection-end-line="451" selection-end-column="40" />
+        <state relative-caret-position="182">
+          <caret line="133" column="16" selection-start-line="133" selection-start-column="16" selection-end-line="133" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/services.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="25" selection-start-line="6" selection-start-column="16" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/trainings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="100" selection-start-line="3" selection-start-column="100" selection-end-line="3" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/videos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="67" selection-start-line="39" selection-start-column="67" selection-end-line="39" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/team.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="706">
-          <caret line="100" column="95" selection-start-line="100" selection-start-column="95" selection-end-line="100" selection-end-column="95" />
+        <state relative-caret-position="605">
+          <caret line="164" column="98" selection-start-line="164" selection-start-column="98" selection-end-line="164" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
           <folding />
         </state>
       </provider>

@@ -6,11 +6,11 @@
             <div class="col-md-3 g-pb-50">
                 <header class="g-mb-20">
                     <span class="u-heading-v1__sub g-color-base--dark g-mb-10">Por que o HiiTFut?</span>
-                    <h2 class="u-heading-v1 u-heading-v1--lg g-color-base--dark">
-                        Os segredos do HiiTFut
-                    </h2>
+<!--                    <h2 class="u-heading-v1 u-heading-v1--lg g-color-base--dark">-->
+<!--                        Os segredos do HiiTFut-->
+<!--                    </h2>-->
                 </header>
-                <a class="btn-u btn-u-base btn-u-base--dark g-rounded-50" href="#">View Our Best Offers</a>
+<!--                <a class="btn-u btn-u-base btn-u-base--dark g-rounded-50" href="#">View Our Best Offers</a>-->
             </div>
             <!-- End Heading -->
 

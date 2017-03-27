@@ -30,14 +30,14 @@
                     <li class="page-scroll">
                         <a href="#studios"><span data-hover="Treinos">Treinos</span></a>
                     </li>
+<!--                    <li class="page-scroll">-->
+<!--                        <a href="#schedule"><span data-hover="Agenda">Agenda</span></a>-->
+<!--                    </li>-->
                     <li class="page-scroll">
-                        <a href="#schedule"><span data-hover="Agenda">Agenda</span></a>
+                        <a href="#lessons"><span data-hover="Videos">Videos</span></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#lessons"><span data-hover="Aulas">Aulas</span></a>
-                    </li>
-                    <li class="page-scroll">
-                        <a href="#team"><span data-hover="Time">Time</span></a>
+                        <a href="#team"><span data-hover="Escalação">Escalação</span></a>
                     </li>
                     <li class="page-scroll">
                         <a href="#contact"><span data-hover="Contato">Contato</span></a>
