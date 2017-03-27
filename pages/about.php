@@ -1,12 +1,12 @@
 <!-- About -->
 <section id="about" class="overflow-h">
     <div class="row-fluid no-gutter">
-        <div class="col-md-6 g-height-60x g-min-height-500px"
-             style="background: url(../assets/img/photos/bg3.jpg) no-repeat 50% 0 / cover">
+<!--        <div class="col-md-6 g-height-60x g-min-height-500px" style="background: url(../assets/img/photos/bg4.jpg) no-repeat 50% 0 / cover">-->
+        <div class="col-md-6 g-height-60x g-min-height-500px custom-bg-orange">
             <div class="g-padding-40 text-center g-block-middle">
                 <header class="g-mb-40">
 <!--                    <h3 class="u-heading-v1 g-color-white custom-color-black">-->
-                    <h2 class="g-color-white custom-color-white">
+                    <h2 class="g-color-white custom-color-black">
                         <strong>
                             O HiiTFut é uma Academia de Futebol para Adultos que pratica e desenvolve uma modalidade que combina elementos, exercícios e movimentos específicos do futebol
                             com treinamento funcional gerando condicionamento físico, bem estar e saúde de maneira dinâmica e divertida.
@@ -36,13 +36,13 @@
             </div>
         </div>
         <div class="col-md-6 g-height-60x g-min-height-500px"
-             style="background: url(../assets/img/photos/bg2.jpg) no-repeat 50% 0 / cover">
+             style="background: url(../assets/img/photos/bg1.jpg) no-repeat 50% 0 / cover">
             <div class="g-padding-40 text-center g-block-middle">
                 <header class="g-mb-20">
-                    <span class="g-color-white">Trainings</span>
-                    <h2 class="u-heading-v1 g-color-white">For All</h2>
+<!--                    <span class="g-color-white">Trainings</span>-->
+<!--                    <h2 class="u-heading-v1 g-color-white">For All</h2>-->
                 </header>
-                <a class="btn-u btn-u-base g-rounded-50" href="#">Learn More</a>
+<!--                <a class="btn-u btn-u-base g-rounded-50" href="#">Learn More</a>-->
             </div>
         </div>
     </div>

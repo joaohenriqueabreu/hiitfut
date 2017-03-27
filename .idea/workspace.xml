@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58cf5dc0-0c4a-4cb6-ba16-b1eb7d26e841" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/photos/msoccer.png" afterPath="$PROJECT_DIR$/assets/img/photos/msoccer.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/photos/osoccer.png" afterPath="$PROJECT_DIR$/assets/img/photos/osoccer.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/photos/psoccer.png" afterPath="$PROJECT_DIR$/assets/img/photos/psoccer.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/photos/bg4.jpg" afterPath="$PROJECT_DIR$/assets/img/photos/bg4.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/custom.css" afterPath="$PROJECT_DIR$/assets/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/gym.style.css" afterPath="$PROJECT_DIR$/assets/css/gym.style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v8.js" afterPath="$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v8.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/about.php" afterPath="$PROJECT_DIR$/pages/about.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/services.php" afterPath="$PROJECT_DIR$/pages/services.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/team.php" afterPath="$PROJECT_DIR$/pages/team.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/trainings.php" afterPath="$PROJECT_DIR$/pages/trainings.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/videos.php" afterPath="$PROJECT_DIR$/pages/videos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parts/footer.php" afterPath="$PROJECT_DIR$/parts/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parts/header.php" afterPath="$PROJECT_DIR$/parts/header.php" />
     </list>
     <ignored path="hiitfut.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,7 +26,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -67,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="services.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="services.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/services.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="25" selection-start-line="6" selection-start-column="16" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="374">
+              <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -100,11 +89,9 @@
       <file leaf-file-name="about.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/about.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="595">
+              <caret line="38" column="60" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="60" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -160,15 +147,15 @@
         <option value="$PROJECT_DIR$/pages/home.php" />
         <option value="$PROJECT_DIR$/parts/footer.php" />
         <option value="$PROJECT_DIR$/assets/css/gym.style.css" />
-        <option value="$PROJECT_DIR$/pages/services.php" />
         <option value="$PROJECT_DIR$/pages/trainings.php" />
         <option value="$PROJECT_DIR$/pages/videos.php" />
         <option value="$PROJECT_DIR$/assets/css/custom.css" />
         <option value="$PROJECT_DIR$/parts/header.php" />
         <option value="$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v8.js" />
         <option value="$PROJECT_DIR$/pages/team.php" />
-        <option value="$PROJECT_DIR$/pages/about.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/pages/about.php" />
+        <option value="$PROJECT_DIR$/pages/services.php" />
       </list>
     </option>
   </component>
@@ -329,32 +316,6 @@
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hiitfut" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hiitfut" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="photos" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -465,7 +426,7 @@
       <updated>1490126078021</updated>
       <workItem from="1490126079840" duration="898000" />
       <workItem from="1490127429012" duration="854000" />
-      <workItem from="1490286468799" duration="18953000" />
+      <workItem from="1490286468799" duration="19662000" />
     </task>
     <task id="LOCAL-00001" summary="v1">
       <created>1490375802552</created>
@@ -474,11 +435,25 @@
       <option name="project" value="LOCAL" />
       <updated>1490375802552</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="v1.1">
+      <created>1490621954268</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1490621954268</updated>
+    </task>
+    <task id="LOCAL-00003" summary="v1.1">
+      <created>1490621965572</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1490621965572</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20705000" />
+    <option name="totallyTimeSpent" value="21414000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -512,7 +487,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1" />
+    <MESSAGE value="v1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -774,14 +750,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/services.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="25" selection-start-line="6" selection-start-column="16" selection-end-line="11" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/trainings.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -830,20 +798,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/about.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="38" column="60" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/services.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
           <folding />
         </state>
       </provider>
